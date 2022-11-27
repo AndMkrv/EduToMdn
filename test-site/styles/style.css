@@ -1,6 +1,14 @@
+@font-face {
+	font-family: Rubik;
+	src: url('../fonts/rubikglitch-regular-webfont.woff2') format('woff2'),
+		url('../fonts/rubikglitch-regular-webfont.woff') format('woff'),
+		url('../fonts/RubikGlitch-Regular.ttf') format('trutype');
+	font-weight: normal;
+	font-style: normal;
+}
 html {
 	font-size: 10px;
-	font-family: "Roboto", sans-serif;
+	font-family: "Rubik", sans-serif;
 	background-color: #224d45;
 }
 h1 {
